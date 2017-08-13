@@ -6,8 +6,8 @@ RoundRobinMailer will mail one at a time giving opportunity to everyone at a tim
 Configuration
 =============
 In RoundRobinMailer.java, replace the following values,
-1. XXXXXX with User Name of SMTP
-2. YYYYYY with Password of SMTP
+1. XXXXXX with User Name of SMTP User
+2. YYYYYY with Password of SMTP User
 3. ZZZZZZ with SMTP Host Name
 4. XXXXXXEMAIL with email address of Login
 
